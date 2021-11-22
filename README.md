@@ -1,5 +1,5 @@
 # PredictiveModel-SubsequentsTumours
-Predictive models using machine learning algorithms to calculate the risk of suffer a secondary primary tumour
+Predictive models using machine learning algorithms to calculate the risk of a new secondary primary tumour
 
 ## About
 

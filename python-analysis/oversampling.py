@@ -317,7 +317,7 @@ if __name__ == '__main__':
     print(X)
     print(Y)
 
-    '''
+    
     for model in models:
         smote_test(X, Y, model)
-        borderline_smote_test(X, Y, model)'''
+        borderline_smote_test(X, Y, model)
